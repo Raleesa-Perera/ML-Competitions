@@ -1,3 +1,6 @@
+## Overview
+
+Join the WiDS Datathon to hone your data science skills while solving an interesting and critical social impact challenge! Using fMRI data, you will be tasked with building a model to predict both an individual’s sex and their ADHD diagnosis.
 
 ## Background / Context:
 
