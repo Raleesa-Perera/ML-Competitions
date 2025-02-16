@@ -1,4 +1,4 @@
-##3Case Study: Apartment Rental Market in Colombo
+##3Case Study: Apartment Rental Market in Colombo##
 
 You are a Data Analyst at a reputed property company based in Colombo, where the demand for rental
 properties is rapidly growing. In response to this rising market, your company is keen to leverage data to
