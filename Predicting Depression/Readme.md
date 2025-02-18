@@ -5,9 +5,9 @@ Welcome to the Machine Learning Challenge! In this binary classification challen
 ## Dataset Description
 The dataset consists of the following feature types:
 
-## 10 Categorical Features :
+### 10 Categorical Features :
 Representing various categorical inputs related to the individual's background and lifestyle.
-## 9 Numerical Features : 
+### 9 Numerical Features : 
 Quantitative data related to lifestyle and demographic factors.
 
 
