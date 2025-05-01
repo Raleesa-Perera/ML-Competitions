@@ -5,7 +5,7 @@ In this competition, your mission is to predict a song’s popularity score (0-1
 
 The dataset includes real Billboard-tracked tracks, and your goal is to build the most accurate regression model possible. Can your algorithm decode the secret formula behind viral hits, or will it flop harder than a one-hit wonder?
 
-The Challenge:
+### The Challenge:
 
 Predict continuous popularity scores (not just hits/flops).
 Uncover hidden patterns in audio and artist data.
