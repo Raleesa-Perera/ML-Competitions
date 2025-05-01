@@ -4,3 +4,4 @@
 2) WiDS Datathon 2025 (Classification)
 3) Apartment Rental Market in Colombo - DataXplore25 
 4) Predicting Depression - CSE 22 (Classification)
+5) mlX 2.0 Regression Challenge: Predict the Hype (Regression)
