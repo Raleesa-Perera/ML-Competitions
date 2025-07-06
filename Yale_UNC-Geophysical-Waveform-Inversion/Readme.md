@@ -1,1 +1,1 @@
-
+In this competition, you’ll estimate subsurface properties—like velocity maps—from on seismic waveform data. Known as Full Waveform Inversion (FWI), this process could lead to more accurate and efficient seismic analysis, making it more useful in a variety of fields.
