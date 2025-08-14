@@ -7,4 +7,4 @@
 5) mlX 2.0 Regression Challenge: Predict the Hype (Regression) | | Kaggle Competition
 6) Data Storm 6.0 - Predict and Improve Insurance Agent Performance (Classification)
 7) idealize- 2025
-8) Yale_UNC_Geoshysical-Waveform-Inversion Competition | Kaggle Competition
+8) Yale_UNC_Geophysical-Waveform-Inversion Competition | Kaggle Competition
